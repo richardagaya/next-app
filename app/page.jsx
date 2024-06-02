@@ -1,8 +1,7 @@
-// pages/index.js
 import Head from 'next/head';
-import Header from './Header';
 import Hero from './Hero';
 import Footer from './Footer';
+import Header from './Header';
 
 export default function Home() {
   return (
