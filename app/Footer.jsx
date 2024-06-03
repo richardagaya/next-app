@@ -1,7 +1,7 @@
 // components/Footer.js
 const Footer = () => (
     <footer style={footerStyle}>
-      <p>&copy; 2024 My Landing Page. All rights reserved.</p>
+      <p>&copy; 2024 This is a testing phase.</p>
     </footer>
   );
   
