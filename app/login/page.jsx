@@ -1,16 +1,9 @@
-import Head from 'next/head';
-import LoginForm from '../components/LoginForm';
+import React from 'react'
 
 const Login = () => {
   return (
-    <div>
-      <Head>
-        <title>Login</title>
-        <meta name="description" content="Login to your account" />
-      </Head>
-      <LoginForm />
-    </div>
-  );
-};
+    <div>Login</div>
+  )
+}
 
-export default Login;
+export default Login

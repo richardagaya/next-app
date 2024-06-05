@@ -4,7 +4,7 @@ const Footer = () => (
       <p>&copy; 2024 This is a testing phase.</p>
     </footer>
   );
-  
+
   const footerStyle = {
     display: 'flex',
     justifyContent: 'center',
