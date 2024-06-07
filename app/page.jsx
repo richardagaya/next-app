@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import Hero from './Hero';
-import Footer from './Footer';
 
 export default function Home() {
   return (
@@ -13,7 +12,6 @@ export default function Home() {
       <main>
         <Hero />
       </main>
-      <Footer />
     </div>
   );
 }
